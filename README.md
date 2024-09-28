@@ -1,6 +1,6 @@
 CT Lottery Webscrape
 
-Using BS4
+Using BS4 - BeautifulSoup
 
 Scratch Tickets Data
 
